@@ -4,7 +4,7 @@
 For me is interesting to work with you and your team a long time.
 If in the past years i have worked on the market for Internet-marketing, now i want working how web-developer.
 
-**Skills:** JS / JQ / HTML / CSS / Python / SQL / Postgresql / Git / SCSS / ООП / API / Json / Figma / Photoshop
+**Skills:** JS / JQ / HTML / CSS / Python / SQL / Postgresql / Git / SCSS / ООП / API / Json / Figma / Photoshop / English A2
 
 **Resume:** [Resume_of_google-drive](https://docs.google.com/document/d/1FrK6QRB5N736CttHe4sQNLoBdd4QJnpx/edit?usp=sharing&ouid=116339013659227722364&rtpof=true&sd=true)
 
