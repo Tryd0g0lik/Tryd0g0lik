@@ -1,4 +1,5 @@
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tryd0g0lik)](https://github.com/ryo-ma/github-profile-trophy)
+
 # I'm Denis Korolev. My name in online is Tryd0g0lik.
 ![For me is interesting to work with you and your team a long time.](https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/gitHub.png)
 
@@ -16,7 +17,7 @@ If in the past years i have worked on the market for Internet-marketing, now i w
 Еще год назад работал на рынке интернет-маркетинга, но уже занимался html-версткой. 
 Сейчас заинтересован работать на рынке разработков.
 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryd0g0lik)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)  
 
 Опыт в:
 - 2022 - ... .Bootstrap, SCSS, Prepros;
