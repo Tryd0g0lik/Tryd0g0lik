@@ -2,7 +2,7 @@
 ![For me is interesting to work with you and your team a long time.](https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/gitHub.png)
 
 For me is interesting to work with you and your team a long time.
-If in the past years i have worked on the market for Internet-marketing. Now i want working how web-developer.
+If in the past years i have worked on the market for Internet-marketing, now i want working how web-developer.
 
 **Skills:** JS / JQ / HTML / CSS / Python / SQL / Postgresql / Git / SCSS / ООП / API / Json / Figma / Photoshop
 
