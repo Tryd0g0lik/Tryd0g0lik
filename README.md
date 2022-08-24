@@ -15,6 +15,8 @@ If in the past years i have worked on the market for Internet-marketing, now i w
 Еще год назад работал на рынке интернет-маркетинга, но уже занимался html-версткой. 
 Сейчас заинтересован работать на рынке разработков.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)  
+
 Опыт в:
 - 2022 - ... .Bootstrap, SCSS, Prepros;
 - 2021- ... .HTML, CSS, JS, JQ;
