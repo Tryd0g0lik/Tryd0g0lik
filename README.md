@@ -1,3 +1,4 @@
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 # I'm Denis Korolev. My name in online is Tryd0g0lik.
 ![For me is interesting to work with you and your team a long time.](https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/gitHub.png)
 
@@ -15,7 +16,7 @@ If in the past years i have worked on the market for Internet-marketing, now i w
 Еще год назад работал на рынке интернет-маркетинга, но уже занимался html-версткой. 
 Сейчас заинтересован работать на рынке разработков.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)  
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)  
 
 Опыт в:
 - 2022 - ... .Bootstrap, SCSS, Prepros;
@@ -38,3 +39,5 @@ If in the past years i have worked on the market for Internet-marketing, now i w
 Tryd0g0lik/Tryd0g0lik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Profile views](https://gpvc.arturio.dev/Tryd0g0lik) 
