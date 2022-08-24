@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tryd0g0lik)](https://github.com/ryo-ma/github-profile-trophy)
-
 # I'm Denis Korolev. My name in online is Tryd0g0lik.
 ![For me is interesting to work with you and your team a long time.](https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/gitHub.png)
 
