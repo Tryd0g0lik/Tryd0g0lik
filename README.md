@@ -4,8 +4,8 @@
 For me is interesting to work with you and your team a long time.
 If in the past years i have worked on the market for Internet-marketing. Now i want working how web-developer.
 
-Skills: JS / JQ / HTML / CSS / Python / SQL / Postgresql / Git / SCSS / ООП / API / Json / Figma / Photoshop
-
+**Skills:** JS / JQ / HTML / CSS / Python / SQL / Postgresql / Git / SCSS / ООП / API / Json / Figma / Photoshop
+**Resume:** (Resume_of_google-drive)[https://docs.google.com/document/d/1FrK6QRB5N736CttHe4sQNLoBdd4QJnpx/edit?usp=sharing&ouid=116339013659227722364&rtpof=true&sd=true]
 Меня зовут Денис, а в сети мое имя Tryd0g0lik.
 Для меня интересно работать с вами и вашей командой длительное время.
 Еще год назад работал на рынке интернет-маркетинга, но уже занимался html-версткой. 
