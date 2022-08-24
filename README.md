@@ -1,4 +1,4 @@
-# I'm Denis Korolev. My name in online is Tryd0g0lik.
+# Hi 👋🏼 I'm Denis Korolev. My name in online is Tryd0g0lik.
 ![For me is interesting to work with you and your team a long time.](https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/gitHub.png)
 
 For me is interesting to work with you and your team a long time.
@@ -8,6 +8,7 @@ If in the past years i have worked on the market for Internet-marketing, now i w
 
 **Resume:** [Resume_of_google-drive](https://docs.google.com/document/d/1FrK6QRB5N736CttHe4sQNLoBdd4QJnpx/edit?usp=sharing&ouid=116339013659227722364&rtpof=true&sd=true)
 
+Здравствуйте!
 Меня зовут Денис, а в сети мое имя Tryd0g0lik.💻🖱
 
 Для меня интересно работать с вами и вашей командой длительное время.
