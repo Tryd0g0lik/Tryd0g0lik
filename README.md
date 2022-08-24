@@ -1,4 +1,4 @@
-#I'm Denis Korolev. My name in online is Tryd0g0lik.
+# I'm Denis Korolev. My name in online is Tryd0g0lik.
 ### For me is interesting to work with you and your team a long time.
 ![For me is interesting to work with you and your team a long time.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
