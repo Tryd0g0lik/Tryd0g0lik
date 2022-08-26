@@ -45,6 +45,6 @@ You can click the Preview link to take a look at your changes.
 
 [Свидетельство 2](https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/Netologe_profassional_Python.png)
 
-[Свидетельство 3])https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/netologe_db_python.png)
+[Свидетельство 3](https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/netologe_db_python.png)
 
 ![Profile views](https://gpvc.arturio.dev/Tryd0g0lik) 
