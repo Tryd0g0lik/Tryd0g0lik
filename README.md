@@ -41,4 +41,7 @@ Tryd0g0lik/Tryd0g0lik is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+![/images/icon.png](https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/Osnovy_Python.png)
+
+
 ![Profile views](https://gpvc.arturio.dev/Tryd0g0lik) 
