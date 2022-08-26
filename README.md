@@ -19,6 +19,7 @@ If in the past years i have worked on the market for Internet-marketing, now i w
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryd0g0lik)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)  
 
 Опыт в:
+- 2022 - ... Python, sql, API
 - 2022 - ... .Bootstrap, SCSS, Prepros;
 - 2021- ... .HTML, CSS, JS, JQ;
 - 2019 - ... .Вэб-Usability;
