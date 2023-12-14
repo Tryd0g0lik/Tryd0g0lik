@@ -65,5 +65,5 @@ You can click the Preview link to take a look at your changes.
 <a href="./Netologe_JavaScript_browsers.png" target="_blank"><img src="./Netologe_JavaScript_browsers.png" width="300px" /></a> \
 <a href="./Netologe_JavaScript_midle.png" target="_blank"><img src="./Netologe_JavaScript_midle.png" width="300px" /></a> 
 <a href="./Netologe_web-interface_Django.png" target="_blank"><img src="./Netologe_web-interface_Django.png" width="300px" /></a> 
-<a href="./Kurs_angliiskogo_azy`ka.jpg.png" target="_blank"><img src="./Kurs_angliiskogo_azy`ka.jpg.png" width="300px" /></a>
+<a href="./Kurs_angliiskogo_azy`ka.jpg" target="_blank"><img src="./Kurs_angliiskogo_azy`ka.jpg" width="300px" /></a>
 
