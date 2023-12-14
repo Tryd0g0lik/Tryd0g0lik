@@ -7,6 +7,11 @@ If in the past years i have worked on the market for Internet-marketing, now i w
 **Skills:** [TJ]S / JQ / HTML / CSS / Python / Pandas / Numpy / SQL / DaisyUI / tailwindcss / async/await / babel / Service Worker, Local Storage, WebSocket, Node, Django,  Postgresql / REST API / Git / SCSS / ООП / Json / Figma / Photoshop / English A2
 
 **Resume:** [Resume_of_google-drive](https://novosibirsk.hh.ru/resume/7dcc330fff0b1abd850039ed1f50374d736f51) \
+i'm using: \
+![pycharm](./pch.png)
+![Visual_Studio_Code](./VSC.png)
+![Notepad++](./Notepad++.png) 
+
 
 Здравствуйте!
 Меня зовут Денис, а в сети мое имя Tryd0g0lik.💻🖱
