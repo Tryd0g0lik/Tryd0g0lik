@@ -64,4 +64,5 @@ You can click the Preview link to take a look at your changes.
 <a href="./Netologe_JavaScript.png" target="_blank"><img src="./Netologe_JavaScript.png" width="300px" /></a> 
 <a href="./Netologe_JavaScript_browsers.png" target="_blank"><img src="./Netologe_JavaScript_browsers.png" width="300px" /></a> \
 <a href="./Netologe_web-interface_Django.png" target="_blank"><img src="./Netologe_web-interface_Django.png" width="300px" /></a>
+
 ![Profile views](https://gpvc.arturio.dev/Tryd0g0lik) 
