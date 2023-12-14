@@ -14,9 +14,8 @@ If in the past years i have worked on the market for Internet-marketing, now i w
 ![Notepad++](./Notepad++.png) 
 
 **Langguages and Tools**: \
-![python](./python-original.svg)
+<svg width="120" height="200">![python](./python-original.svg)</svg>
 ![postgresql-original-wordmark](./postgresql-original-wordmark.svg)
-![netologe_db_python](./netologe_db_python.png)
 ![html5](./html5-original-wordmark.svg)
 ![css3](./css3-original-wordmark.svg)
 ![bootstrap](./bootstrap-plain-wordmark.svg)
