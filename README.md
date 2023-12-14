@@ -15,11 +15,11 @@ If in the past years i have worked on the market for Internet-marketing, now i w
 
 **Langguages and Tools**: \
 <img src="./python-original.svg" width="120" />
-![postgresql-original-wordmark](./postgresql-original-wordmark.svg)
-![html5](./html5-original-wordmark.svg)
-![css3](./css3-original-wordmark.svg)
-![bootstrap](./bootstrap-plain-wordmark.svg)
-![](./68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667.svg)
+<img src="./postgresql-original-wordmark.svg" width="120" />
+<img src="././html5-original-wordmark.svg" width="120" />
+<img src="././css3-original-wordmark.svg" width="120" />
+<img src="././bootstrap-plain-wordmark.svg" width="120" />
+<img src="././68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667.svg)
 
 
 
