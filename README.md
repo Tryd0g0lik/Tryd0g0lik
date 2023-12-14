@@ -6,11 +6,22 @@ If in the past years i have worked on the market for Internet-marketing, now i w
 
 **Skills:** [TJ]S / JQ / HTML / CSS / Python / Pandas / Numpy / SQL / DaisyUI / tailwindcss / async/await / babel / Service Worker, Local Storage, WebSocket, Node, Django,  Postgresql / REST API / Git / SCSS / ООП / Json / Figma / Photoshop / English A2
 
-**Resume:** [Resume_of_google-drive](https://novosibirsk.hh.ru/resume/7dcc330fff0b1abd850039ed1f50374d736f51) \
-i'm using: \
+**Resume:** [Resume_of_google-drive](https://novosibirsk.hh.ru/resume/7dcc330fff0b1abd850039ed1f50374d736f51) 
+
+**i'm using**: \
 ![pycharm](./pch.png)
 ![Visual_Studio_Code](./VSC.png)
 ![Notepad++](./Notepad++.png) 
+
+**Langguages and Tools**: \
+![python](./python-original.svg)
+![postgresql-original-wordmark](./postgresql-original-wordmark.svg)
+![netologe_db_python](./netologe_db_python.png)
+![html5](./html5-original-wordmark.svg)
+![css3](./css3-original-wordmark.svg)
+![bootstrap](./bootstrap-plain-wordmark.svg)
+![](./68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667.svg)
+
 
 
 Здравствуйте!
