@@ -13,7 +13,7 @@ If in the past years i have worked on the market for Internet-marketing, now i w
 ![Visual_Studio_Code](./VSC.png)
 ![Notepad++](./Notepad++.png) 
 
-**Langguages and Tools**: \
+**Languages and Tools**: \
 <img src="./python-original.svg" width="80" />
 <img src="./postgresql-original-wordmark.svg" width="80" />
 <img src="././html5-original-wordmark.svg" width="80" />
