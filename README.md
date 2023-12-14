@@ -14,12 +14,12 @@ If in the past years i have worked on the market for Internet-marketing, now i w
 ![Notepad++](./Notepad++.png) 
 
 **Langguages and Tools**: \
-<img src="./python-original.svg" width="120" />
-<img src="./postgresql-original-wordmark.svg" width="120" />
-<img src="././html5-original-wordmark.svg" width="120" />
-<img src="././css3-original-wordmark.svg" width="120" />
-<img src="././bootstrap-plain-wordmark.svg" width="120" />
-<img src="././68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667.svg)
+<img src="./python-original.svg" width="80" />
+<img src="./postgresql-original-wordmark.svg" width="80" />
+<img src="././html5-original-wordmark.svg" width="80" />
+<img src="././css3-original-wordmark.svg" width="80" />
+<img src="././bootstrap-plain-wordmark.svg" width="80" />
+<img src="./68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667.svg" width="80" />
 
 
 
