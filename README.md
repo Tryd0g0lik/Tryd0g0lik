@@ -57,13 +57,13 @@ Tryd0g0lik/Tryd0g0lik is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="./Osnovy_Python.png" target="_blank"><img src="./Osnovy_Python.png" width="300px" /></a>
-<a href="./Netologe_profassional_Python.png" target="_blank"><img src="./Netologe_profassional_Python.png" width="300px"  /></a>
-<a href="./netologe_db_python.png" target="_blank"><img src="./netologe_db_python.png" width="300px" /></a> \
-<a href="./Netologe_html_css.png" target="_blank"><img src="./Netologe_html_css.png" width="300px" /></a> 
-<a href="./Netologe_JavaScript.png" target="_blank"><img src="./Netologe_JavaScript.png" width="300px" /></a> 
-<a href="./Netologe_JavaScript_browsers.png" target="_blank"><img src="./Netologe_JavaScript_browsers.png" width="300px" /></a> \
-<a href="./Netologe_JavaScript_midle.png" target="_blank"><img src="./Netologe_JavaScript_midle.png" width="300px" /></a> 
-<a href="./Netologe_web-interface_Django.png" target="_blank"><img src="./Netologe_web-interface_Django.png" width="300px" /></a> 
-<a href="./Kurs_angliiskogo_azy`ka.jpg" target="_blank"><img src="./Kurs_angliiskogo_azy`ka.jpg" width="300px" /></a>
+<a href="./Osnovy_Python.png" target="_blank"><img src="./Osnovy_Python.png" width="250px" /></a>
+<a href="./Netologe_profassional_Python.png" target="_blank"><img src="./Netologe_profassional_Python.png" width="250px"  /></a>
+<a href="./netologe_db_python.png" target="_blank"><img src="./netologe_db_python.png" width="250px" /></a> \
+<a href="./Netologe_html_css.png" target="_blank"><img src="./Netologe_html_css.png" width="250px" /></a> 
+<a href="./Netologe_JavaScript.png" target="_blank"><img src="./Netologe_JavaScript.png" width="250px" /></a> 
+<a href="./Netologe_JavaScript_browsers.png" target="_blank"><img src="./Netologe_JavaScript_browsers.png" width="250px" /></a> \
+<a href="./Netologe_JavaScript_midle.png" target="_blank"><img src="./Netologe_JavaScript_midle.png" width="250px" /></a> 
+<a href="./Netologe_web-interface_Django.png" target="_blank"><img src="./Netologe_web-interface_Django.png" width="250px" /></a> 
+<a href="./Kurs_angliiskogo_azy`ka.jpg" target="_blank"><img src="./Kurs_angliiskogo_azy`ka.jpg" width="250px" /></a>
 
