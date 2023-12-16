@@ -33,7 +33,7 @@ If in the past years i have worked on the market for Internet-marketing, now i w
 Сейчас заинтересован работать на рынке разработков.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryd0g0lik)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryd0g0lik&size_weight=0.5&count_weight=0.5)
 
 Опыт в:
 - 2022 - ... Python, sql, API
