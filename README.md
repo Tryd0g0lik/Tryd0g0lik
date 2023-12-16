@@ -51,12 +51,8 @@ If in the past years i have worked on the market for Internet-marketing, now i w
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tryd0g0lik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17173857/tryd0g0lik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://54seo.ru/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freelancer.svg' alt='freelancer' height='40'>](https://freelance.ru/Trydogolik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/tryd0g0lik)  
-**Electronic certificates**
-<!---
-Tryd0g0lik/Tryd0g0lik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
+**Electronic certificates**: \
 <a href="./Osnovy_Python.png" target="_blank"><img src="./Osnovy_Python.png" width="250px" /></a>
 <a href="./Netologe_profassional_Python.png" target="_blank"><img src="./Netologe_profassional_Python.png" width="250px"  /></a>
 <a href="./netologe_db_python.png" target="_blank"><img src="./netologe_db_python.png" width="250px" /></a> \
