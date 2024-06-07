@@ -39,7 +39,6 @@ For me is interesting to work with you and your team a long time.
 - 2023 - ... Django, SQL, WebSocket, Kio, PostgreSQL;
 - 2022 - ... English A2. SQL, PostgreSQL, Python, парсинг и чистка данных;
 - 2021- ... .HTML, CSS, JS, JQ;
-
 - 2019 - ... .Вэб-Usability;
 - 2019 - 2021гг.- контекстная реклама Google;
 - 2018 - 2021 .гг.- контекстная реклама Яндекс, HTML, CSS;
