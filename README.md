@@ -35,12 +35,14 @@ For me is interesting to work with you and your team a long time.
 
 
 Опыт в:
-- 2022 - ... Python, sql, API
-- 2022 - ... .Bootstrap, SCSS, Prepros;
+- 2024 - ... React, Redux, Redis
+- 2023 - ... Django, SQL, WebSocket, Kio, PostgreSQL;
+- 2022 - ... English A2. SQL, PostgreSQL, Python, парсинг и чистка данных;
 - 2021- ... .HTML, CSS, JS, JQ;
+
 - 2019 - ... .Вэб-Usability;
 - 2019 - 2021гг.- контекстная реклама Google;
-- 2018 - 2021 .гг.- контекстная реклама Яндекс;
+- 2018 - 2021 .гг.- контекстная реклама Яндекс, HTML, CSS;
 - 2013 - 2014гг. - SEO-аудит сайта;
 - 2012 - 2020 гг.- ретушь фотографий - хобби;
 - 2009 - 2014гг. - web-контент;
