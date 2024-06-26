@@ -13,13 +13,16 @@ For me is interesting to work with you and your team a long time.
 ![Notepad++](./Notepad++.png) 
 
 **Languages and Tools**: \
-<img src="./python-original.svg" width="80" />
-<img src="./postgresql-original-wordmark.svg" width="80" />
-<img src="././html5-original-wordmark.svg" width="80" />
-<img src="./css3-original-wordmark.svg" width="80" />
-<img src="./JS.png" width="80" />
-<img src="./bootstrap-plain-wordmark.svg" width="80" />
-<img src="./68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667.svg" width="80" />
+<img src="./python-original.svg" width="22" />
+<img src="./postgresql-original-wordmark.svg" width="22" />
+<img src="././html5-original-wordmark.svg" width="22" />
+<img src="./css3-original-wordmark.svg" width="22" />
+<img src="./JS.png" width="22" />
+<img src="./bootstrap-plain-wordmark.svg" width="22" />
+<img src="./68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667.svg" width="22" />
+[<img src="./figma_logo_icon_1701.png" width="22px" />](https://vk.com/tryd0g0lik)
+[<img src="./file_type_django_ico.png" width="22px" />](https://vk.com/tryd0g0lik)
+[<img src="./react_original_logo_.png" width="22px" />](https://vk.com/tryd0g0lik)
 
 
 
@@ -51,9 +54,7 @@ For me is interesting to work with you and your team a long time.
 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/Tryd0g0lik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='22'>](https://stackoverflow.com/users/17173857/tryd0g0lik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='22'>](https://54seo.ru/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freelancer.svg' alt='freelancer' height='40'>](https://freelance.ru/Trydogolik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='22'>](https://vk.com/tryd0g0lik)  [<img src="./figma_logo_icon_1701.png" width="22px" />](https://vk.com/tryd0g0lik)
-[<img src="./file_type_django_ico.png" width="22px" />](https://vk.com/tryd0g0lik)
-[<img src="./react_original_logo_.png" width="22px" />](https://vk.com/tryd0g0lik)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/Tryd0g0lik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='22'>](https://stackoverflow.com/users/17173857/tryd0g0lik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='22'>](https://54seo.ru/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freelancer.svg' alt='freelancer' height='40'>](https://freelance.ru/Trydogolik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='22'>](https://vk.com/tryd0g0lik)  
 
 **Electronic certificates**: \
 <a href="./Osnovy_Python.png" target="_blank"><img src="./Osnovy_Python.png" width="250px" /></a>
