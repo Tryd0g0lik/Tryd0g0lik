@@ -51,19 +51,19 @@ For me is interesting to work with you and your team a long time.
 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tryd0g0lik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17173857/tryd0g0lik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://54seo.ru/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freelancer.svg' alt='freelancer' height='40'>](https://freelance.ru/Trydogolik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/tryd0g0lik)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/Tryd0g0lik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='22'>](https://stackoverflow.com/users/17173857/tryd0g0lik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='22'>](https://54seo.ru/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freelancer.svg' alt='freelancer' height='40'>](https://freelance.ru/Trydogolik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='22'>](https://vk.com/tryd0g0lik)  [<img src="./figma_logo_icon_1701.png" width="22px" />](https://vk.com/tryd0g0lik)
+[<img src="./file_type_django_ico.png" width="22px" />](https://vk.com/tryd0g0lik)
+[<img src="./react_original_logo_.png" width="22px" />](https://vk.com/tryd0g0lik)
 
 **Electronic certificates**: \
-<a href="./Osnovy_Python.png" target="_blank"><img src="./Osnovy_Python.png" width="22px" /></a>
-<a href="./Netologe_profassional_Python.png" target="_blank"><img src="./Netologe_profassional_Python.png" width="22px"  /></a>
-<a href="./netologe_db_python.png" target="_blank"><img src="./netologe_db_python.png" width="22px" /></a> \
-<a href="./Netologe_html_css.png" target="_blank"><img src="./Netologe_html_css.png" width="22px" /></a> 
-<a href="./Netologe_JavaScript.png" target="_blank"><img src="./Netologe_JavaScript.png" width="22px" /></a> 
-<a href="./Netologe_JavaScript_browsers.png" target="_blank"><img src="./Netologe_JavaScript_browsers.png" width="22px" /></a> \
-<a href="./Netologe_JavaScript_midle.png" target="_blank"><img src="./Netologe_JavaScript_midle.png" width="22px" /></a> 
-<a href="./Netologe_web-interface_Django.png" target="_blank"><img src="./Netologe_web-interface_Django.png" width="22px" /></a> 
-<a href="./Kurs_angliiskogo_azy`ka.jpg" target="_blank"><img src="./Kurs_angliiskogo_azy`ka.jpg" width="22px" /></a>
-<a href="./Kurs_angliiskogo_azy`ka.jpg" target="_blank"><img src="./figma_logo_icon_1701.png" width="22px" /></a>
-<a href="./Kurs_angliiskogo_azy`ka.jpg" target="_blank"><img src="./file_type_django_ico.png" width="22px" /></a>
-<a href="./Kurs_angliiskogo_azy`ka.jpg" target="_blank"><img src="./react_original_logo_.png" width="22px" /></a>
+<a href="./Osnovy_Python.png" target="_blank"><img src="./Osnovy_Python.png" width="250px" /></a>
+<a href="./Netologe_profassional_Python.png" target="_blank"><img src="./Netologe_profassional_Python.png" width="250px"  /></a>
+<a href="./netologe_db_python.png" target="_blank"><img src="./netologe_db_python.png" width="250px" /></a> \
+<a href="./Netologe_html_css.png" target="_blank"><img src="./Netologe_html_css.png" width="250px" /></a> 
+<a href="./Netologe_JavaScript.png" target="_blank"><img src="./Netologe_JavaScript.png" width="250px" /></a> 
+<a href="./Netologe_JavaScript_browsers.png" target="_blank"><img src="./Netologe_JavaScript_browsers.png" width="250px" /></a> \
+<a href="./Netologe_JavaScript_midle.png" target="_blank"><img src="./Netologe_JavaScript_midle.png" width="250px" /></a> 
+<a href="./Netologe_web-interface_Django.png" target="_blank"><img src="./Netologe_web-interface_Django.png" width="250px" /></a> 
+<a href="./Kurs_angliiskogo_azy`ka.jpg" target="_blank"><img src="./Kurs_angliiskogo_azy`ka.jpg" width="250px" /></a>
+
 
