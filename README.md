@@ -27,12 +27,14 @@ For me is interesting to work with you and your team a long time.
 
 
 Здравствуйте!
-Меня зовут Денис, а в сети мое имя Tryd0g0lik.💻🖱
+Меня зовут Денис, а в сети мое имя WorkAHolic.💻🖱
 
 Для меня интересно работать с вами и вашей командой длительное время.
 
 Еще год назад работал на рынке интернет-маркетинга, но уже занимался html-версткой. 
 Сейчас заинтересован работать на рынке разработков.
+
+[Telegram](https://t.me/Trydogolik)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryd0g0lik)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)  
 
