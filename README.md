@@ -5,7 +5,7 @@ For me is interesting to work with you and your team a long time.
 
 **Skills:** [TJ]S / JQ / HTML / CSS / Python / Pandas / Numpy / SQL / DaisyUI / tailwindcss / async/await / babel / Service Worker, Local Storage, WebSocket, Node, Django,  Postgresql / REST API / Git / SCSS / ООП / Json / Figma / Photoshop / English A2
 
-**Resume:** [Resume_of_google-drive](https://novosibirsk.hh.ru/resume/7dcc330fff0b1abd850039ed1f50374d736f51) \
+**Resume:** [Resume_of_Y.Disk](https://disk.yandex.ru/i/GRqe7EKGiXs2BQ) \
 [Telegram](https://t.me/Trydogolik) \
 ﻿﻿My working time is 8 - 14 hours 
 
