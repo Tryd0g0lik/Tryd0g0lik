@@ -33,7 +33,7 @@ For me is interesting to work with you and your team a long time.
 
 **Contacts**
 [<img src="./gmail.svg" />](mailto:work80@mail,ru)
-[<img src="./telegramm.jpeg" height="10" />](https://t.me/Trydogolik)
+[<img src="./telegramm.jpeg" height="30" />](https://t.me/Trydogolik)
 
 Здравствуйте!
 Меня зовут Денис, а в сети мое имя Tryd0g0lik.💻🖱
