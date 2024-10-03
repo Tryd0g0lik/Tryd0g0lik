@@ -19,8 +19,8 @@ For me is interesting to work with you and your team a long time.
 <img src="./postgresql-original-wordmark.svg" width="22" />
 <img src="././html5-original-wordmark.svg" width="22" />
 <img src="./css3-original-wordmark.svg" width="22" />
-<img src="./ts.png" width="22" />
 <img src="./sass.png" width="22" />
+<img src="./ts.png" width="22" />
 <img src="./JS.png" width="22" />
 <img src="./bootstrap-plain-wordmark.svg" width="22" />
 <img src="./postman.svg" width="22" />
