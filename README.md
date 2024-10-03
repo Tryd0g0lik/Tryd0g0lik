@@ -19,14 +19,21 @@ For me is interesting to work with you and your team a long time.
 <img src="./postgresql-original-wordmark.svg" width="22" />
 <img src="././html5-original-wordmark.svg" width="22" />
 <img src="./css3-original-wordmark.svg" width="22" />
+<img src="./ts.png" width="22" />
+<img src="./sass.png" width="22" />
 <img src="./JS.png" width="22" />
 <img src="./bootstrap-plain-wordmark.svg" width="22" />
+<img src="./postman.svg" width="22" />
+<img src="./redux-original.svg" width="22" />
+<img src="./nodejs-original-wordmark.svg" width="22" />
 <img src="./68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667.svg" width="22" />
 [<img src="./figma_logo_icon_1701.png" width="22px" />](https://vk.com/tryd0g0lik)
 [<img src="./file_type_django_ico.png" width="22px" />](https://vk.com/tryd0g0lik)
 [<img src="./react_original_logo_.png" width="22px" />](https://vk.com/tryd0g0lik)
 
-
+**Contacts**
+[<img src="./gmail.svg" width="22" />](email:work80@mail,ru)
+[<img src="./telegramm.jpeg" width="22" />](https://t.me/Trydogolik)
 
 Здравствуйте!
 Меня зовут Денис, а в сети мое имя Tryd0g0lik.💻🖱
