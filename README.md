@@ -32,7 +32,7 @@ For me is interesting to work with you and your team a long time.
 [<img src="./react_original_logo_.png" width="22px" />](https://vk.com/tryd0g0lik)
 
 **Contacts**
-[<img src="./gmail.svg" width="22" />](email:work80@mail,ru)
+[<img src="./gmail.svg" width="22" />](mailto:work80@mail,ru)
 [<img src="./telegramm.jpeg" width="22" />](https://t.me/Trydogolik)
 
 Здравствуйте!
