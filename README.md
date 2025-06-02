@@ -3,7 +3,33 @@
 
 I'm interesting in working with you and your team a long time.
 
-**Skills:** [TJ]S / JQ / HTML / CSS / Python / Pandas / Numpy / SQL / DaisyUI / tailwindcss / async/await / babel / Service Worker, Local Storage, WebSocket, Node, Django,  Postgresql / REST API / Git / SCSS / ООП / Json / Figma / Photoshop / English A2
+1. **My a worgin skills:** 
+- Languages: SCSS, HTML, JS&TS. Python;
+-OS: Windows & Ubuntu;
+-DB: PostgreSQL (Basic);
+- WF: Django, Flask,  JQ, React, tailwind, daisyui, Bootstrap
+- , Render.com, Git, Figma, .
+Installers: pip, poetry, npm, yarn.
+- IDE: VSCode, PyCharm, Notepad++, Photoshop, Postman,  bash (mkdir, cd, rm, pwd, ls, nano cat), powershell.
+
+I’m have experience: debug; logging; OpenAPI; DevTools.
+
+2. **Python 3.2/3.7/3.8/3.9/3.10/3.11**:
+- Pandas, Numpy, 
+- Requests, RESTAPI,
+- aiohttp, asyncio.gether, 
+, PEP8,
+- SQLAlchemy (from Flask)
+
+3. **JS+**:
+- TS, Redux (write redux manually), Redox Router, Redux Toolkit, 
+- WebSocket, Fetch,
+- async/await, Promise.all()
+- Koa/express (Node),
+ pg.Client (postgres),
+
+4.
+- Figma, Photoshop, English A2
 
 **Resume:** [Resume_of_Y.Disk](https://disk.yandex.ru/i/A9eajolzDHaxhw) \
 [Telegram](https://t.me/Trydogolik) \
