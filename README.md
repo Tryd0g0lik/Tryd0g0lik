@@ -34,7 +34,7 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 **Resume:** [Resume_of_Y.Disk](https://disk.yandex.ru/i/A9eajolzDHaxhw) \
 [Telegram](https://t.me/Trydogolik) \
 ﻿﻿My working time is 8 - 14 hours \
-[**Single from my exemple:**](https://github.com/Tryd0g0lik/weather):\
+[**Single from my exemples:**](https://github.com/Tryd0g0lik/weather):\
 - outside services to the API keys;
 - front has a TS and outside data services by API, one FW to the css and components;
 - back has a Django, DRF, DRF JWT, CORS, HASH of password;
