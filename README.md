@@ -1,13 +1,17 @@
 # Hi 👋🏼 I'm Denis Korolev. My name in online is Workaholic.
 ![For me is interesting to work with you and your team a long time.](https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/gitHub.png)
 
-For me is interesting to work with you and your team a long time.
+I'm interesting in working with you and your team a long time.
 
 **Skills:** [TJ]S / JQ / HTML / CSS / Python / Pandas / Numpy / SQL / DaisyUI / tailwindcss / async/await / babel / Service Worker, Local Storage, WebSocket, Node, Django,  Postgresql / REST API / Git / SCSS / ООП / Json / Figma / Photoshop / English A2
 
-**Resume:** [Resume_of_Y.Disk](https://disk.yandex.ru/i/GRqe7EKGiXs2BQ) \
+**Resume:** [Resume_of_Y.Disk](https://disk.yandex.ru/i/A9eajolzDHaxhw) \
 [Telegram](https://t.me/Trydogolik) \
-﻿﻿My working time is 8 - 14 hours 
+﻿﻿My working time is 8 - 14 hours \
+[**Single from my exemple:**](https://github.com/Tryd0g0lik/weather):\
+- outside services to the API keys;
+- front has a TS and outside data services by API, one FW to the css and components;
+- back has a Django, DRF, DRF JWT, CORS, HASH of password;
 
 **i'm using**: \
 ![pycharm](./pch.png)
