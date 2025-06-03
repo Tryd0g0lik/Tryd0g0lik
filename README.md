@@ -2,6 +2,7 @@
 ![For me is interesting to work with you and your team a long time.](https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/gitHub.png)
 
 I'm interesting in working with you and your team a long time.
+
 |:------|:------|:------|:------|
 |1. **My a worgin skills:**|2. **Python 3.2/3.7/3.8/3.9/3.10/3.11**|3. **JS+**|4.|
 |Languages: SCSS, HTML, JS&TS. Python|tailwind, daisyui, Bootstrap|pg.Client (postgres)|- Figma, Photoshop, English A2|
