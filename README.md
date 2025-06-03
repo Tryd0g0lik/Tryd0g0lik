@@ -6,13 +6,13 @@ I'm interesting in working with you and your team a long time.
 |||||
 |:------|:------|:------|:------|
 |1. **My a worgin skills:**|2. **Python 3.2/3.7/3.8/3.9/3.10/3.11**|3. **JS+**|4.|
-|Languages: SCSS, HTML, JS&TS. Python|tailwind, daisyui, Bootstrap|pg.Client (postgres)|- Figma, Photoshop, English A2|
-|OS: Windows & Ubuntu|Requests, Postman, RESTAPI, OpenAPI|WebSocket, Fetch||
-|DB: PostgreSQL (Basic)|aiohttp, asyncio.gether, PEP8|async/await, Promise.all()||
+|Languages: SCSS, HTML, JS&TS&React&Redux&Router&Toolkit&DOM, Python|tailwind, daisyui, Bootstrap|pg.Client (postgres)|- Figma, Photoshop, English A2|
+|OS: Windows & Ubuntu|Requests, Postman, RESTAPI, OpenAPI|WebSocket, HTTP, Fetch||
+|DB: PostgreSQL (Basic)|Promise, asyncio, |asyncio.gether, async/await, Promise.all()||
 |WF: Django, Flask,  JQ, React, tailwind, daisyui, Bootstrap|SQLAlchemy (from Flask)|Koa/express (Node)||
-|Git, Pthotoshop, Figma.|Pandas, Numpy|TS, Redux (write redux manually), Redox Router, Redux Toolkit||
+|Git, Pthotoshop, Figma.|Pandas, Numpy|PEP8, float8, ESlint, husky, pre-commit||
 |Installers: pip, poetry, npm, yarn||||
-|IDE: VSCode, PyCharm, Notepad++, Photoshop, Postman,  bash (mkdir, cd, rm, pwd, ls, nano cat), powershell||||
+|IDE: VSCode, PyCharm, Notepad++, Photoshop, Postman,  bash (mkdir, cd, rm, pwd, ls, nano cat)||||
 
 I’m have experience: debug; logging; OpenAPI; DevTools.
 
