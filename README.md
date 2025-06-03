@@ -7,7 +7,7 @@ I'm interesting in working with you and your team a long time.
 |:------|:------|:------|:------|
 |1. **My a working skills:**|2. **Python 3.2/3.7/3.8/3.9/3.10/3.11**|3. **JS+**|4.|
 |Languages: SCSS, HTML, JS,TS, React, Redux, Router, Toolkit, DOM, Python|tailwind, daisyui, Bootstrap|pg.Client (postgres)|- Figma, Photoshop, English A2|
-|OS: Windows & Ubuntu|Requests, Postman, RESTAPI, OpenAPI|WebSocket, HTTP, Fetch|PEP8, float8, ESlint, husky, pre-commit**|
+|OS: Windows & Ubuntu|Requests, Postman, RESTAPI, OpenAPI|WebSocket, HTTP, Fetch|PEP8, float8, ESlint, husky, pre-commit, github Actions, server|
 |DB: PostgreSQL (Basic)|asyncio, asyncio.gether, |Promise, async/await, Promise.all()||
 |WF: Django, Flask,  JQ, React, tailwind, daisyui, Bootstrap|SQLAlchemy (from Flask)|Koa/express (Node)||
 |Git, Pthotoshop, Figma.|Pandas, Numpy|||
