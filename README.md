@@ -13,11 +13,31 @@ I'm interesting in working with you and your team a long time.
 ||Pandas, Numpy|||
 |||||
 
+
+## My a working skills
+||||
+|:---|:---|:---|
+|React|Django|Hash|
+|TypeScript|Signal| Linux Ubuntu (and BIOS)|
+|PostgreSQL (SQL little)|SSH, FTP|Bash|
+|Pytest, Playwright|Postman|Hml/scss|
+|HTTP, WebSocked|Promise.all, Promise.allSettled, asyncio.all, asyncio.wait||
+||||
+
+### Django
+
+|||
+|:---|:---|
+|[DRF](https://www.django-rest-framework.org/)|[django-rest-framework-jwt](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)|
+|[django-rest-auth](https://www.django-rest-framework.org/api-guide/authentication/)|[pytest-django](https://pypi.org/project/pytest-django/)|
+|[django-bootstrap4](https://pypi.org/project/django-bootstrap4/)|[django-cors-headers](https://pypi.org/project/django-cors-headers/)|
+|[adrf](https://pypi.org/project/adrf/)|[django-webpack-loader](https://pypi.org/project/django-webpack-loader/)|
+|||
+
 I’m have experience: debug; logging; OpenAPI; DevTools.
 
 **Resume:** [Resume_of_Y.Disk](https://disk.yandex.ru/i/A9eajolzDHaxhw) \
 [Telegram](https://t.me/Trydogolik) \
-﻿﻿My working time is 8 - 14 hours \
 [**Single from my exemples:**](https://github.com/Tryd0g0lik/weather):\
 - outside services to the API keys;
 - front has a TS and outside data services by API, one FW to the css and components;
