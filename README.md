@@ -36,14 +36,23 @@ I'm interesting in working with you and your team a long time.
 
 I’m have experience: debug; logging; OpenAPI; DevTools.
 
-**Resume:** [Resume_of_Y.Disk](https://disk.yandex.ru/i/A9eajolzDHaxhw) \
-[Telegram](https://t.me/Trydogolik) \
-[**Single from my exemples:**](https://github.com/Tryd0g0lik/weather):\
-- outside services to the API keys;
-- front has a TS and outside data services by API, one FW to the css and components;
-- back has a Django, DRF, DRF JWT, CORS, HASH of password;
+## Resume:
 
-**i'm using**: \
+|||
+|:----|:----|
+|Version||
+|[RU](https://disk.yandex.ru/i/A9eajolzDHaxhw)|[ENG](https://disk.yandex.ru/i/A9eajolzDHaxhw)|
+
+## Review
+||
+|:----|
+|[Telegram](https://t.me/Trydogolik)|
+|[linkedin](https://www.linkedin.com/in/денис-королев-183ba165/)|
+|[HeadHunter RU](https://novosibirsk.hh.ru/resume/7dcc330fff0b1abd850039ed1f50374d736f51)|
+|[HeadHunter ENG](https://novosibirsk.hh.ru/resume/1f2e02e5ff0d62671f0039ed1f4b6337425a31)|
+
+
+**i'm use**: \
 ![pycharm](./img/pch.png)
 ![Visual_Studio_Code](./img/VSC.png)
 ![Notepad++](./img/Notepad++.png) 
@@ -65,22 +74,21 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 [<img src="./img/file_type_django_ico.png" width="22px" />](https://vk.com/tryd0g0lik)
 [<img src="./img/react_original_logo_.png" width="22px" />](https://vk.com/tryd0g0lik)
 
-**Contacts**
-[<img src="./img/gmail.svg" />](mailto:work80@mail,ru)
-[<img src="./img/telegramm.jpeg" height="30" />](https://t.me/Trydogolik)
-
-
 Здравствуйте!
 Меня зовут Денис, а в сети мое имя Tryd0g0lik.💻🖱
 
 Для меня интересно работать с вами и вашей командой длительное время.
 
 Еще год назад работал на рынке интернет-маркетинга, но уже занимался html-версткой. 
-Сейчас заинтересован работать на рынке разработков.
+Сейчас заинтересован работать на рынке разработчиков.
 
+## Exemple (simple) 
 
+|||
+|:---|:---|
+|[ads](https://github.com/Tryd0g0lik/adboard/tree/master)|[weather](https://github.com/Tryd0g0lik/weather)|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryd0g0lik)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryd0g0lik)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)  
 
 
 Опыт в:
