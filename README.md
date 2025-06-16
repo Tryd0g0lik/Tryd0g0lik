@@ -82,7 +82,7 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 Еще год назад работал на рынке интернет-маркетинга, но уже занимался html-версткой. 
 Сейчас заинтересован работать на рынке разработчиков.
 
-## Exemple (simple) 
+## Example (simple) 
 
 |||
 |:---|:---|
