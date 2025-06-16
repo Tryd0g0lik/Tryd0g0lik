@@ -13,7 +13,6 @@ I'm interesting in working with you and your team a long time.
 ||Pandas, Numpy|||
 |||||
 
-
 ## My a working skills
 ||||
 |:---|:---|:---|
@@ -34,40 +33,46 @@ I'm interesting in working with you and your team a long time.
 |[adrf](https://pypi.org/project/adrf/)|[django-webpack-loader](https://pypi.org/project/django-webpack-loader/)|
 |||
 
+
 I’m have experience: debug; logging; OpenAPI; DevTools.
 
-**Resume:** [Resume_of_Y.Disk](https://disk.yandex.ru/i/A9eajolzDHaxhw) \
-[Telegram](https://t.me/Trydogolik) \
-[**Single from my exemples:**](https://github.com/Tryd0g0lik/weather):\
-- outside services to the API keys;
-- front has a TS and outside data services by API, one FW to the css and components;
-- back has a Django, DRF, DRF JWT, CORS, HASH of password;
+## Resume:
 
-**i'm using**: \
-![pycharm](./pch.png)
-![Visual_Studio_Code](./VSC.png)
-![Notepad++](./Notepad++.png) 
+|||
+|:----|:----|
+|Version||
+|[RU](https://disk.yandex.ru/i/A9eajolzDHaxhw)|[ENG](https://disk.yandex.ru/i/A9eajolzDHaxhw)|
+
+## Review
+||
+|:----|
+|[Telegram](https://t.me/Trydogolik)|
+|[linkedin](https://www.linkedin.com/in/денис-королев-183ba165/)|
+|[HeadHunter RU](https://novosibirsk.hh.ru/resume/7dcc330fff0b1abd850039ed1f50374d736f51)|
+|[HeadHunter ENG](https://novosibirsk.hh.ru/resume/1f2e02e5ff0d62671f0039ed1f4b6337425a31)|
+
+
+**i'm use**: \
+![pycharm](./img/pch.png)
+![Visual_Studio_Code](./img/VSC.png)
+![Notepad++](./img/Notepad++.png) 
 
 **Languages and Tools**: \
-<img src="./python-original.svg" width="22" />
-<img src="./postgresql-original-wordmark.svg" width="22" />
-<img src="././html5-original-wordmark.svg" width="22" />
-<img src="./css3-original-wordmark.svg" width="22" />
-<img src="./sass.png" width="22" />
-<img src="./ts.png" width="22" />
-<img src="./JS.png" width="22" />
-<img src="./bootstrap-plain-wordmark.svg" width="22" />
-<img src="./postman.svg" width="22" />
-<img src="./redux-original.svg" width="22" />
-<img src="./nodejs-original-wordmark.svg" width="22" />
-<img src="./68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667.svg" width="22" />
-[<img src="./figma_logo_icon_1701.png" width="22px" />](https://vk.com/tryd0g0lik)
-[<img src="./file_type_django_ico.png" width="22px" />](https://vk.com/tryd0g0lik)
-[<img src="./react_original_logo_.png" width="22px" />](https://vk.com/tryd0g0lik)
-
-**Contacts**
-[<img src="./gmail.svg" />](mailto:work80@mail,ru)
-[<img src="./telegramm.jpeg" height="30" />](https://t.me/Trydogolik)
+<img src="./img/python-original.svg" width="22" />
+<img src="./img/postgresql-original-wordmark.svg" width="22" />
+<img src="./img/./html5-original-wordmark.svg" width="22" />
+<img src="./img/css3-original-wordmark.svg" width="22" />
+<img src="./img/sass.png" width="22" />
+<img src="./img/ts.png" width="22" />
+<img src="./img/JS.png" width="22" />
+<img src="./img/bootstrap-plain-wordmark.svg" width="22" />
+<img src="./img/postman.svg" width="22" />
+<img src="./img/redux-original.svg" width="22" />
+<img src="./img/nodejs-original-wordmark.svg" width="22" />
+<img src="./img/github.svg" width="22" />
+[<img src="./img/figma_logo_icon_1701.png" width="22px" />](https://vk.com/tryd0g0lik)
+[<img src="./img/file_type_django_ico.png" width="22px" />](https://vk.com/tryd0g0lik)
+[<img src="./img/react_original_logo_.png" width="22px" />](https://vk.com/tryd0g0lik)
 
 Здравствуйте!
 Меня зовут Денис, а в сети мое имя Tryd0g0lik.💻🖱
@@ -75,11 +80,15 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 Для меня интересно работать с вами и вашей командой длительное время.
 
 Еще год назад работал на рынке интернет-маркетинга, но уже занимался html-версткой. 
-Сейчас заинтересован работать на рынке разработков.
+Сейчас заинтересован работать на рынке разработчиков.
 
+## Exemple (simple) 
 
+|||
+|:---|:---|
+|[ads](https://github.com/Tryd0g0lik/adboard/tree/master)|[weather](https://github.com/Tryd0g0lik/weather)|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryd0g0lik)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryd0g0lik)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)  
 
 
 Опыт в:
@@ -102,14 +111,14 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/Tryd0g0lik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='22'>](https://stackoverflow.com/users/17173857/tryd0g0lik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='22'>](https://54seo.ru/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freelancer.svg' alt='freelancer' height='40'>](https://freelance.ru/Trydogolik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='22'>](https://vk.com/tryd0g0lik)  
 
 **Electronic certificates**: \
-<a href="./Osnovy_Python.png" target="_blank"><img src="./Osnovy_Python.png" width="250px" /></a>
-<a href="./Netologe_profassional_Python.png" target="_blank"><img src="./Netologe_profassional_Python.png" width="250px"  /></a>
-<a href="./netologe_db_python.png" target="_blank"><img src="./netologe_db_python.png" width="250px" /></a> \
-<a href="./Netologe_html_css.png" target="_blank"><img src="./Netologe_html_css.png" width="250px" /></a> 
-<a href="./Netologe_JavaScript.png" target="_blank"><img src="./Netologe_JavaScript.png" width="250px" /></a> 
-<a href="./Netologe_JavaScript_browsers.png" target="_blank"><img src="./Netologe_JavaScript_browsers.png" width="250px" /></a> \
-<a href="./Netologe_JavaScript_midle.png" target="_blank"><img src="./Netologe_JavaScript_midle.png" width="250px" /></a> 
-<a href="./Netologe_web-interface_Django.png" target="_blank"><img src="./Netologe_web-interface_Django.png" width="250px" /></a> 
-<a href="./Kurs_angliiskogo_azy`ka.jpg" target="_blank"><img src="./Kurs_angliiskogo_azy`ka.jpg" width="250px" /></a>
+<a href="./Osnovy_Python.png" target="_blank"><img src="./img/Osnovy_Python.png" width="250px" /></a>
+<a href="./Netologe_profassional_Python.png" target="_blank"><img src="./img/Netologe_profassional_Python.png" width="250px"  /></a>
+<a href="./netologe_db_python.png" target="_blank"><img src="./img/netologe_db_python.png" width="250px" /></a> \
+<a href="./Netologe_html_css.png" target="_blank"><img src="./img/Netologe_html_css.png" width="250px" /></a> 
+<a href="./Netologe_JavaScript.png" target="_blank"><img src="./img/Netologe_JavaScript.png" width="250px" /></a> 
+<a href="./Netologe_JavaScript_browsers.png" target="_blank"><img src="./img/Netologe_JavaScript_browsers.png" width="250px" /></a> \
+<a href="./Netologe_JavaScript_midle.png" target="_blank"><img src="./img/Netologe_JavaScript_midle.png" width="250px" /></a> 
+<a href="./Netologe_web-interface_Django.png" target="_blank"><img src="./img/Netologe_web-interface_Django.png" width="250px" /></a> 
+<a href="./Kurs_angliiskogo_azy`ka.jpg" target="_blank"><img src="./img/Kurs_angliiskogo_azy`ka.jpg" width="250px" /></a>
 
 
