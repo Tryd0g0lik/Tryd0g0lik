@@ -58,6 +58,9 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 ![Notepad++](./img/Notepad++.png) 
 
 **Languages and Tools**: \
+<img src="./img/nginx.png" width="22" />
+<img src="./img/gunicirn.png" width="22" />
+<img src="./img/bash.png" width="22" />
 <img src="./img/python-original.svg" width="22" />
 <img src="./img/postgresql-original-wordmark.svg" width="22" />
 <img src="./img/./html5-original-wordmark.svg" width="22" />
