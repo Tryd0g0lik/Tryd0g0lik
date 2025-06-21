@@ -89,7 +89,8 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 
 |||
 |:---|:---|
-|[ads](https://github.com/Tryd0g0lik/adboard/tree/master)|[weather](https://github.com/Tryd0g0lik/weather)|
+|[ads-dashboard](https://github.com/Tryd0g0lik/adboard/tree/master)|[SMS from service page of browser](https://github.com/Tryd0g0lik/mts_sms_front/tree/master)|
+|[user's files saving to the cloud and referral link for download](https://github.com/Tryd0g0lik/cloud)||
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryd0g0lik)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)  
 
