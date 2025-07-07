@@ -1,3 +1,48 @@
+<style>
+   /**
+    Another git process seems to be running in this repository, e.g.
+        an editor opened by 'git commit'. Please make sure all processes
+        are terminated then try again. If it still fails, a git process
+        may have crashed in this repository earlier:
+        remove the file manually to continue.
+    */
+   html {
+     font-size: 16px;
+     line-height: 1.2;
+   }
+
+   span,
+   p,
+   * {
+     font-size: 1.2rem;
+     line-height: 1.3;
+   }
+
+   h1,
+   h2,
+   h3,
+   h4,
+   h5,
+   h6 {
+     color: #00ccb8;
+     font-size: 1.0rem;
+     line-height: 1.0;
+   }
+
+   html {
+     background: #252a33;
+   }
+
+   tr:hover span,
+   tr:hover p,
+   tr:hover * {
+     color: #fa0;
+   }
+summary {
+	color:#0af098;
+}
+  
+</style>
 # Hi 👋🏼 I'm Denis Korolev. My name in online is Workaholic.
 ![For me is interesting to work with you and your team a long time.](https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/img/gitHub.png)
 
