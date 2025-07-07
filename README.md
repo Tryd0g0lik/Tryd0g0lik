@@ -47,7 +47,7 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 
 ## Review
 |||
-|:----||
+|:----|:----|
 |[Telegram](https://t.me/Trydogolik)|[freelance profile](https://kwork.ru/user/workaholik)|
 |[linkedin](https://www.linkedin.com/in/денис-королев-183ba165/)||
 |[HeadHunter RU](https://novosibirsk.hh.ru/resume/7dcc330fff0b1abd850039ed1f50374d736f51)||
