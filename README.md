@@ -1,3 +1,5 @@
+
+
 # Hi 👋🏼 I'm Denis Korolev. My name in online is Workaholic.
 ![For me is interesting to work with you and your team a long time.](https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/img/gitHub.png)
 
@@ -45,12 +47,12 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 |[RU](https://disk.yandex.ru/i/A9eajolzDHaxhw)|[ENG](https://disk.yandex.ru/i/A9eajolzDHaxhw)|
 
 ## Review
-||
-|:----|
-|[Telegram](https://t.me/Trydogolik)|
-|[linkedin](https://www.linkedin.com/in/денис-королев-183ba165/)|
-|[HeadHunter RU](https://novosibirsk.hh.ru/resume/7dcc330fff0b1abd850039ed1f50374d736f51)|
-|[HeadHunter ENG](https://novosibirsk.hh.ru/resume/1f2e02e5ff0d62671f0039ed1f4b6337425a31)|
+|||
+|:----|:----|
+|[Telegram](https://t.me/Trydogolik)|[freelance profile](https://kwork.ru/user/workaholik)|
+|[linkedin](https://www.linkedin.com/in/денис-королев-183ba165/)||
+|[HeadHunter RU](https://novosibirsk.hh.ru/resume/7dcc330fff0b1abd850039ed1f50374d736f51)||
+|[HeadHunter ENG](https://novosibirsk.hh.ru/resume/1f2e02e5ff0d62671f0039ed1f4b6337425a31)||
 
 
 **i'm use**: \
