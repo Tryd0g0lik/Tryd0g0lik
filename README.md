@@ -31,6 +31,7 @@ I'm interesting in working with you and your team a long time.
 |[django-rest-auth](https://www.django-rest-framework.org/api-guide/authentication/)|[pytest-django](https://pypi.org/project/pytest-django/)|
 |[django-bootstrap4](https://pypi.org/project/django-bootstrap4/)|[django-cors-headers](https://pypi.org/project/django-cors-headers/)|
 |[adrf](https://pypi.org/project/adrf/)|[django-webpack-loader](https://pypi.org/project/django-webpack-loader/)|
+|[wagtail](https://wagtail.org/)||
 |||
 
 
@@ -90,9 +91,11 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 |||
 |:---|:---|
 |[ads-dashboard](https://github.com/Tryd0g0lik/adboard/tree/master)|[SMS from service page of browser](https://github.com/Tryd0g0lik/mts_sms_front/tree/master)|
-|[user's files saving to the cloud and referral link for download](https://github.com/Tryd0g0lik/cloud)||
+|[user's files saving to the cloud and referral link for download](https://github.com/Tryd0g0lik/cloud)|[job with cinema](https://github.com/Tryd0g0lik/cinema_category)|
+|[and more](https://github.com/Tryd0g0lik/flows_fronted)|[and more](https://github.com/Tryd0g0lik/flows)|
+|[weather service](https://github.com/Tryd0g0lik/weather)|[and UI](https://github.com/Tryd0g0lik/weather_front)|
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryd0g0lik)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryd0g0lik)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)  
 
 
 Опыт в:
