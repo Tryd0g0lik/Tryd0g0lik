@@ -42,7 +42,6 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 ## Resume:
 
 ||||
-
 |:----|:----|:----|
 |Version|||
 |[RU](https://disk.yandex.ru/i/A9eajolzDHaxhw)|[ENG](https://disk.yandex.ru/i/A9eajolzDHaxhw)|[Descript of portfolio - download](https://disk.yandex.ru/i/Lor2mlNVmCKv9A)|
