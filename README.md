@@ -41,10 +41,12 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 
 ## Resume:
 
-||||
-|:----|:----|:----|
-|Version|||
-|[RU](https://disk.yandex.ru/i/A9eajolzDHaxhw)|[ENG](https://disk.yandex.ru/i/A9eajolzDHaxhw)|[Descript of portfolio - download](https://disk.yandex.ru/i/Lor2mlNVmCKv9A)|
+|                                                                              ||
+|:-----------------------------------------------------------------------------|:----|
+| Version of resume                                                            ||
+| [RU](https://disk.yandex.ru/i/A9eajolzDHaxhw)                                |[ENG](https://disk.yandex.ru/i/A9eajolzDHaxhw)|
+| Version of portfolio                                                         ||
+| [Descript of portfolio RU download](https://disk.yandex.ru/i/Lor2mlNVmCKv9A) |[Descript of portfolio ENG download](https://disk.yandex.ru/i/JuC_HxSPoEal7w)|
 
 ## Review
 |||
