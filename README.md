@@ -39,7 +39,7 @@ I'm interesting in working with you and your team a long time.
 
 I’m have experience: debug; logging; OpenAPI; DevTools.
 
-## Resume:
+## Resume & Portfolio:
 
 |                                                                              ||
 |:-----------------------------------------------------------------------------|:----|
@@ -48,11 +48,11 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 | Version of portfolio                                                         ||
 | [Descript of portfolio RU download](https://disk.yandex.ru/i/Lor2mlNVmCKv9A) |[Descript of portfolio ENG download](https://disk.yandex.ru/i/JuC_HxSPoEal7w)|
 
-## Review
-|||
-|:----|:----|
-|[Telegram](https://t.me/Trydogolik)|[freelance profile](https://kwork.ru/user/workaholik)|
-|[linkedin](https://www.linkedin.com/in/денис-королев-183ba165/)||
+## Contacts
+||                                                   |
+|:----|:--------------------------------------------------|
+|[Telegram](https://t.me/Trydogolik)| [kwork profile](https://kwork.ru/user/workaholik) |
+|[linkedin](https://www.linkedin.com/in/денис-королев-183ba165/)|[freelance profile](https://freelance.ru/Trydogolik)|
 |[HeadHunter RU](https://novosibirsk.hh.ru/resume/7dcc330fff0b1abd850039ed1f50374d736f51)||
 |[HeadHunter ENG](https://novosibirsk.hh.ru/resume/1f2e02e5ff0d62671f0039ed1f4b6337425a31)||
 
