@@ -3,6 +3,16 @@
 # Hi 👋🏼 I'm Denis Korolev. My name in online is Workaholic.
 ![For me is interesting to work with you and your team a long time.](https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/img/gitHub.png)
 
+## Resume & Portfolio:
+
+|                                                                              ||
+|:-----------------------------------------------------------------------------|:----|
+| Version of resume                                                            ||
+| [RU](https://disk.yandex.ru/i/A9eajolzDHaxhw)                                |[ENG](https://disk.yandex.ru/i/A9eajolzDHaxhw)|
+| Version of portfolio                                                         ||
+| [Descript of portfolio RU download](https://disk.yandex.ru/i/Lor2mlNVmCKv9A) |[Descript of portfolio ENG download](https://disk.yandex.ru/i/JuC_HxSPoEal7w)|
+
+
 I'm interesting in working with you and your team a long time.
 
 |||||
@@ -39,14 +49,6 @@ I'm interesting in working with you and your team a long time.
 
 I’m have experience: debug; logging; OpenAPI; DevTools.
 
-## Resume & Portfolio:
-
-|                                                                              ||
-|:-----------------------------------------------------------------------------|:----|
-| Version of resume                                                            ||
-| [RU](https://disk.yandex.ru/i/A9eajolzDHaxhw)                                |[ENG](https://disk.yandex.ru/i/A9eajolzDHaxhw)|
-| Version of portfolio                                                         ||
-| [Descript of portfolio RU download](https://disk.yandex.ru/i/Lor2mlNVmCKv9A) |[Descript of portfolio ENG download](https://disk.yandex.ru/i/JuC_HxSPoEal7w)|
 
 ## Contacts
 ||                                                   |
