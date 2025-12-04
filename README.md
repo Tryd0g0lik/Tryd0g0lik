@@ -1,4 +1,4 @@
-
+**Note**: *Actively seeking work. I'm open to all opportunities*.
 
 # Hi 👋🏼 I'm Denis Korolev. My name in online is Workaholic.
 ![For me is interesting to work with you and your team a long time.](https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/img/gitHub.png)
@@ -104,20 +104,20 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 
 
 
-Опыт в:
+My a working experience:
 - 2025 - ... SQLite, Redis, Redis, CICD, FastApi,
 - 2024 - ... React, Redux, Celery, bash, Playwraght;
 - 2023 - ... Kio, Node, jest;
-- 2022 - ... English A2. SQL, PostgreSQL, Python, парсинг и чистка данных, Django, SQL, pytest, WebSocket, PostgreSQL;
+- 2022 - ... English A2. SQL, PostgreSQL, Python, parsing & clears data, Django, SQL, pytest (basis), WebSocket, PostgreSQL;
 - 2021- ... JS, JQ, Figma;
 - 2019 - ... .Вэб-Usability;
 - 2010 - ... - HTML, CSS, блочная, табличная верстка, Photoshop.
 - 2019 - 2021гг.- контекстная реклама Google;
 - 2018 - 2021 .гг.- контекстная реклама Яндекс
 - 2013 - 2014гг. - SEO;
-- 2012 - 2020 гг.- ретушь фотографий - хобби;
-- 2009 - 2014гг. - web-контент;
-- 2010 - 2014гг. и 2018гг. - email-верстка;
+- 2012 - 2020 гг.- photoshop;
+- 2009 - 2014гг. - web-content;
+- 2010 - 2014гг. и 2018гг. - email-scc;
 
 🔭 I’m currently working on this page. 
 
