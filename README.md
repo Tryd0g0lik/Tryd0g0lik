@@ -105,18 +105,19 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 
 
 Опыт в:
-- 2024 - ... React, Redux, Redis
-- 2023 - ... Django, SQL, WebSocket, Kio, PostgreSQL;
-- 2022 - ... English A2. SQL, PostgreSQL, Python, парсинг и чистка данных;
-- 2021- ... .HTML, CSS, JS, JQ;
+- 2025 - ... SQLite, Redis, Redis, CICD, FastApi,
+- 2024 - ... React, Redux, Celery, bash, Playwraght;
+- 2023 - ... Kio, Node, jest;
+- 2022 - ... English A2. SQL, PostgreSQL, Python, парсинг и чистка данных, Django, SQL, pytest, WebSocket, PostgreSQL;
+- 2021- ... JS, JQ, Figma;
 - 2019 - ... .Вэб-Usability;
+- 2010 - ... - HTML, CSS, блочная, табличная верстка, Photoshop.
 - 2019 - 2021гг.- контекстная реклама Google;
-- 2018 - 2021 .гг.- контекстная реклама Яндекс, HTML, CSS;
-- 2013 - 2014гг. - SEO-аудит сайта;
+- 2018 - 2021 .гг.- контекстная реклама Яндекс
+- 2013 - 2014гг. - SEO;
 - 2012 - 2020 гг.- ретушь фотографий - хобби;
 - 2009 - 2014гг. - web-контент;
 - 2010 - 2014гг. и 2018гг. - email-верстка;
-- 2010 - 2013гг. - HTML, CSS, блочная, табличная верстка.
 
 🔭 I’m currently working on this page. 
 
