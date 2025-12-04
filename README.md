@@ -1,6 +1,6 @@
 
 
-#### Actively seeking work. I'm open to all opportunities.
+### Actively seeking work. I'm open to all opportunities.
 
 # Hi 👋🏼 I'm Denis Korolev. My name in online is Workaholic.
 ![For me is interesting to work with you and your team a long time.](https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/img/gitHub.png)
