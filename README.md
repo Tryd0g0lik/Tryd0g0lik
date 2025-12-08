@@ -94,32 +94,36 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 Еще год назад работал на рынке интернет-маркетинга, но уже занимался html-версткой. 
 Сейчас заинтересован работать на рынке разработчиков.
 
-## Example (simple) 
+## Portfolio (simple) 
 
 |||
 |:---|:---|
+|[Personal](https://github.com/Tryd0g0lik/personal)|[Rtuck_Driver](https://github.com/Tryd0g0lik/truck_driver)|
+|[truck_driver front](https://github.com/Tryd0g0lik/truck_driver_front)||
 |[ads-dashboard](https://github.com/Tryd0g0lik/adboard/tree/master)|[SMS from service page of browser](https://github.com/Tryd0g0lik/mts_sms_front/tree/master)|
 |[user's files saving to the cloud and referral link for download](https://github.com/Tryd0g0lik/cloud)|[job with cinema](https://github.com/Tryd0g0lik/cinema_category)|
 |[and more](https://github.com/Tryd0g0lik/flows_fronted)|[and more](https://github.com/Tryd0g0lik/flows)|
 |[weather service](https://github.com/Tryd0g0lik/weather)|[and UI](https://github.com/Tryd0g0lik/weather_front)|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryd0g0lik)](https://github.com/anuraghazra/github-readme-stats)|![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)|
 
-
+[And more - download](https://disk.yandex.ru/i/JuC_HxSPoEal7w)
 
 My a working experience:
-- 2025 - ... SQLite, Redis, Redis, CICD, FastApi,
-- 2024 - ... React, Redux, Celery, bash, Playwraght;
-- 2023 - ... Kio, Node, jest;
-- 2022 - ... English A2. SQL, PostgreSQL, Python, parsing & clears data, Django, SQL, pytest (basis), WebSocket, PostgreSQL;
-- 2021- ... JS, JQ, Figma;
+- 2025 - ... SQLite, Redis, CICD, FastApi, SSL,
+- 2024 - ... React, Redux, Celery, bash, Playwright, threading;
+- 2023 - ... Kio, Node, jest, "tailwind & daisyui", Flask;
+- 2022 - ... English A2. SQL, PostgreSQL, Python, parsing and  clean of data, Django, 
+	SQL, pytest, WebSocket, PostgreSQL, API local/out
+	SSH, asyncio, promise;
+- 2021- ... Figma;
 - 2019 - ... .Вэб-Usability;
-- 2010 - ... - HTML, CSS, блочная, табличная верстка, Photoshop.
-- 2019 - 2021гг.- контекстная реклама Google;
-- 2018 - 2021 .гг.- контекстная реклама Яндекс
+- 2010 - ... - HTML, CSS, Photoshop, FTP, JS.
+- 2019 - 2021гг.- Google ADS & metrics;
+- 2018 - 2021 .гг.-  Yandex "ads" & metrics
 - 2013 - 2014гг. - SEO;
 - 2012 - 2020 гг.- photoshop;
-- 2009 - 2014гг. - web-content;
-- 2010 - 2014гг. и 2018гг. - email-scc;
+- 2009 - 2014гг. - web-html/css;
+- 2010 - 2014гг. и 2018гг. - email-css.
 
 🔭 I’m currently working on this page. 
 
