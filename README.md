@@ -17,25 +17,16 @@
 
 I'm interesting in working with you and your team a long time.
 
-||                                     |                                     ||
-|:------|:------------------------------------|:------------------------------------|:------|
-|1. **My a working skills:**| 2. **Python 3.+**                   | 3. **JS** React, TypScript          |4.|
-|Languages: SCSS, HTML, JS,TS, React, Redux, Router, Toolkit, DOM, Python| tailwind, daisyui, Bootstrap        | pg.Client (postgres)                |Figma, Photoshop|
-|OS: Windows & Ubuntu| Requests, Postman, RESTAPI, OpenAPI | WebSocket, SSE, HTTP, Fetch         |PEP8, float8, ESlint, husky, pre-commit, github Actions, server|
-|DB: PostgreSQL, SQL (Basic)| asyncio, asyncio.gether,            | Promise, async/await, Promise.all() |Installers: pip, poetry, npm, yarn|
-|WF: Django, Flask,  JQ, React, tailwind, daisyui, Bootstrap| SQLAlchemy (from Flask)             | Koa/express (Node) jun              |IDE: VSCode, PyCharm, Notepad++, Photoshop, Postman,  bash (mkdir, cd, rm, pwd, ls, nano cat)|
-|| Pandas, Numpy                       |                                     ||
-||                                     |                                     ||
+|                                                                                                  |                                     |                                     |                                                                                               |
+|:-------------------------------------------------------------------------------------------------|:------------------------------------|:------------------------------------|:----------------------------------------------------------------------------------------------|
+| 1. **My a working skills:**                                                                      | 2. **Python 3.+**                   | 3. **JS** React, TypScript          | 4.                                                                                            |
+| Languages: SCSS, HTML, JS,TS, React, Redux, Router, Toolkit, DOM, Python                         | tailwind, daisyui, Bootstrap        | pg.Client (postgres)                | Figma, Photoshop                                                                              |
+| OS: Windows & Ubuntu                                                                             | Requests, Postman, RESTAPI, OpenAPI | WebSocket, SSE, HTTP, Fetch         | PEP8, float8, ESlint, husky, pre-commit, github Actions, server                               |
+| DB: Celery + Redis (The time manager), SQLite, PostgreSQL. SQL, SQLAlchemy, Alembic, SQL (Basic) | asyncio, async/await, threading,    | Promise, async/await | Installers: pip, poetry, npm, yarn                                                            |
+| WF: Django, FastAPI,  JQ, React, tailwind, daisyui, Bootstrap                                    |                                     | Koa/express (Node) jun              | IDE: VSCode, PyCharm, Notepad++, Photoshop, Postman,  bash (mkdir, cd, rm, pwd, ls, nano cat) |
+|                                                                                                  | Pandas (basis),                     |DevTools, React Developer Tools| Pytest (e2e, function, module), Playwright (basic test + scraper), Jest (basis)               |
+|                                                                                                  |                                     |                                     | DevOps (little) & CICD & GITHUB Action                                                        |
 
-## My a working skills
-||||
-|:---|:---|:---|
-|React|Django|Hash|
-|TypeScript|Signal| Linux Ubuntu (and BIOS)|
-|PostgreSQL (SQL little)|SSH, FTP|Bash|
-|Pytest, Playwright|Postman|Hml/scss|
-|HTTP, WebSocked|Promise.all, Promise.allSettled, asyncio.all, asyncio.wait||
-||||
 
 ### Django
 
@@ -98,6 +89,7 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 
 |||
 |:---|:---|
+|[krypto_market](https://github.com/Tryd0g0lik/krypto_market)||
 |[Personal](https://github.com/Tryd0g0lik/personal)|[Rtuck_Driver](https://github.com/Tryd0g0lik/truck_driver)|
 |[truck_driver front](https://github.com/Tryd0g0lik/truck_driver_front)||
 |[ads-dashboard](https://github.com/Tryd0g0lik/adboard/tree/master)|[SMS from service page of browser](https://github.com/Tryd0g0lik/mts_sms_front/tree/master)|
