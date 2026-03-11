@@ -5,8 +5,10 @@
 # Hi 👋🏼 I'm Denis Korolev. My name in online is Workaholic.
 ![For me is interesting to work with you and your team a long time.](https://github.com/Tryd0g0lik/Tryd0g0lik/blob/main/img/gitHub.png)
 
-*Note: Bad I can a read and write text (it’s comments of code and documentation of code) or chatting with teams. It’s all very free.
-More information about me you can see in my file. Below, You can see the links on the resume.* 
+*Note: First , I want say what — my a conversational English is very bad.\
+Bad I can a read and write text (it’s comments of code and documentation of code) or chatting with teams. It’s all very free.
+More information about me, you can see in my file. Below, You can see the links on the resume.\
+I hope, your team will help me and pull up me.* 
 
 ## Resume & Portfolio:
 
