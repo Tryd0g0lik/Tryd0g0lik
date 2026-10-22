@@ -10,31 +10,6 @@ Bad I can a read and write text (it’s comments of code and documentation of co
 More information about me, you can see in my file. Below, You can see the links on the resume.\
 I hope, your team will help me and pull up me.* 
 
-## Resume & Portfolio:
-
-|                                                                              |                                                                               |
-|:-----------------------------------------------------------------------------|:------------------------------------------------------------------------------|
-| Version of resume                                                            |                                                                               |
-| [RU resume](https://disk.yandex.ru/i/A9eajolzDHaxhw)                         | [ENG resume](https://disk.yandex.ru/i/A9eajolzDHaxhw)                         |
-| Version of portfolio                                                         |                                                                               |
-| [Descript of portfolio RU download](https://disk.yandex.ru/i/Lor2mlNVmCKv9A) | [Descript of portfolio ENG download](https://disk.yandex.ru/i/JuC_HxSPoEal7w) |
-
-
-I'm interesting in working with you and your team a long time.
-
-|                                                                                                  |                                                                   |                                     |                                                                                               |
-|:-------------------------------------------------------------------------------------------------|:------------------------------------------------------------------|:------------------------------------|:----------------------------------------------------------------------------------------------|
-| 1. **My a working skills:**                                                                      | 2. **Python 3.+**                                                 | 3. **JS** React, TypScript          | 4.                                                                                            |
-| Languages: SCSS, HTML, JS,TS, React, Redux, Router, Toolkit, DOM, Python                         | tailwind, daisyui, Bootstrap                                      | pg.Client (postgres)                | Figma, Photoshop                                                                              |
-| OS: Windows & Ubuntu                                                                             | Requests, Postman, RESTAPI, OpenAPI                               | Fetch         | PEP8, float8, ESlint, husky, pre-commit, github Actions, server, WebSocket, SSE, HTTP                             |
-| DB: Celery + Redis (The time manager), SQLite, PostgreSQL. SQL, SQLAlchemy, Alembic, SQL (Basic) | asyncio, async/await, threading,                                  | Promise, async/await | Installers: pip, poetry, npm, yarn                                                            |
-| WF: Django, FastAPI,  JQ, React, tailwind, daisyui, Bootstrap                                    | aiohttp                                                           | Koa/express (Node) jun              | IDE: VSCode, PyCharm, Notepad++, Photoshop, Postman,  bash (mkdir, cd, rm, pwd, ls, nano cat) |
-|                                                                                                  | Pandas (basis),                                                   |DevTools, React Developer Tools| DevOps (little) & CICD & GITHUB Action                                                        |
-|                                                                                                  | Pytest (e2e, function, module), Playwright (basic test + scraper) |Jest (basis)|                                                                                               |
-|                                                                                                  |                                                                   |                                     |                                                                                               |
-
-
-
 ### Django
 
 |||
@@ -47,16 +22,11 @@ I'm interesting in working with you and your team a long time.
 |||
 
 
-I’m have experience: debug; logging; OpenAPI; DevTools.
-
-
 ## Contacts
 ||                                                   |
 |:----|:--------------------------------------------------|
 |[Telegram](https://t.me/Trydogolik)| [kwork profile](https://kwork.ru/user/workaholik) |
 |[linkedin](https://www.linkedin.com/in/денис-королев-183ba165/)|[freelance profile](https://freelance.ru/Trydogolik)|
-|[HeadHunter RU](https://novosibirsk.hh.ru/resume/7dcc330fff0b1abd850039ed1f50374d736f51)||
-|[HeadHunter ENG](https://novosibirsk.hh.ru/resume/1f2e02e5ff0d62671f0039ed1f4b6337425a31)||
 
 
 **i'm use**: \
@@ -84,30 +54,8 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 [<img src="./img/file_type_django_ico.png" width="22px" />](https://vk.com/tryd0g0lik)
 [<img src="./img/react_original_logo_.png" width="22px" />](https://vk.com/tryd0g0lik)
 
-Здравствуйте!
-Меня зовут Денис, а в сети мое имя Tryd0g0lik.💻🖱
 
-Для меня интересно работать с вами и вашей командой длительное время.
-
-Еще год назад работал на рынке интернет-маркетинга, но уже занимался html-версткой. 
-Сейчас заинтересован работать на рынке разработчиков.
-
-## Portfolio (simple) 
-
-|||
-|:---|:---|
-|[krypto_market](https://github.com/Tryd0g0lik/krypto_market)||
-|[Personal](https://github.com/Tryd0g0lik/personal)|[Rtuck_Driver](https://github.com/Tryd0g0lik/truck_driver)|
-|[truck_driver front](https://github.com/Tryd0g0lik/truck_driver_front)||
-|[ads-dashboard](https://github.com/Tryd0g0lik/adboard/tree/master)|[SMS from service page of browser](https://github.com/Tryd0g0lik/mts_sms_front/tree/master)|
-|[user's files saving to the cloud and referral link for download](https://github.com/Tryd0g0lik/cloud)|[job with cinema](https://github.com/Tryd0g0lik/cinema_category)|
-|[and more](https://github.com/Tryd0g0lik/flows_fronted)|[and more](https://github.com/Tryd0g0lik/flows)|
-|[weather service](https://github.com/Tryd0g0lik/weather)|[and UI](https://github.com/Tryd0g0lik/weather_front)|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryd0g0lik)](https://github.com/anuraghazra/github-readme-stats)|![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tryd0g0lik&show_icons=true)|
-
-[And more - download](https://disk.yandex.ru/i/JuC_HxSPoEal7w)
-
-== My skills:
+## My skills:
 - Languages: SCSS, HTML, JS. Python;
 - OS: Windows & Ubuntu. even the bash;
 - DB: PostgreSQL, SQLite;
@@ -120,8 +68,6 @@ Installers: pip, poetry, npm, yarn.
 - IDE: VSCode, PyCharm, Notepad++, Photoshop, Postman.
 - security and clear code. + Little DevTols.
 
-
-🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/Tryd0g0lik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='22'>](https://stackoverflow.com/users/17173857/tryd0g0lik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='22'>](https://54seo.ru/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freelancer.svg' alt='freelancer' height='40'>](https://freelance.ru/Trydogolik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='22'>](https://vk.com/tryd0g0lik)  
