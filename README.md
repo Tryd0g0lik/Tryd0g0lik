@@ -107,22 +107,19 @@ I’m have experience: debug; logging; OpenAPI; DevTools.
 
 [And more - download](https://disk.yandex.ru/i/JuC_HxSPoEal7w)
 
-My a working experience:
-- 2025 - ... SQLite, Redis, CICD, FastApi, SSL,
-- 2024 - ... React, Redux, Celery, bash, Playwright, threading;
-- 2023 - ... Kio, Node, jest, "tailwind & daisyui", Flask;
-- 2022 - ... English A2. SQL, PostgreSQL, Python, parsing and  clean of data, Django, 
-	SQL, pytest, WebSocket, PostgreSQL, API local/out
-	SSH, asyncio, promise;
-- 2021- ... Figma;
-- 2019 - ... .Вэб-Usability;
-- 2010 - ... - HTML, CSS, Photoshop, FTP, JS.
-- 2019 - 2021гг.- Google ADS & metrics;
-- 2018 - 2021 .гг.-  Yandex "ads" & metrics
-- 2013 - 2014гг. - SEO;
-- 2012 - 2020 гг.- photoshop;
-- 2009 - 2014гг. - web-html/css;
-- 2010 - 2014гг. и 2018гг. - email-css.
+== My skills:
+- Languages: SCSS, HTML, JS. Python;
+- OS: Windows & Ubuntu. even the bash;
+- DB: PostgreSQL, SQLite;
+- WF: Django (priority), DRF, ADRF,  FastAPI,  React, React Router, Redux, tailwind, daisyui, Bootstrap;
+- HTML, CSS, SCSS;
+- else: webpack, package.json,  bable;
+- and even: REST API, WebSocket,  SSE, http methods;
+- Git, Figm & PSD files.
+Installers: pip, poetry, npm, yarn.
+- IDE: VSCode, PyCharm, Notepad++, Photoshop, Postman.
+- security and clear code. + Little DevTols.
+
 
 🔭 I’m currently working on this page. 
 
